@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261103-074954-kje5",
+      "title": "Grav Tank",
+      "commanders": [
+        "Grav Tank"
+      ],
+      "guild": {
+        "id": "4291B70C-B528-4F4E-999D-AD3C2A6882E1",
+        "name": "Ehmry Bay Stock Exchange",
+        "tag": "EBAY"
+      },
+      "dateStart": "2026-11-02T18:49:54.000Z",
+      "dateEnd": "2026-11-02T19:36:56.941Z",
+      "dateLabel": "03/11/2026, 07:49:54 - 03/11/2026, 08:36:56",
+      "url": "https://GravNZ.github.io/gw2logs/?report=20261103-074954-kje5",
+      "publishedBy": "GravNZ",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 8,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 22,
+        "avgEnemySize": 11
+      }
+    },
+    {
       "id": "20261101-140444-ok05",
       "title": "Grav Tank",
       "commanders": [
